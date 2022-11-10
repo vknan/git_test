@@ -11,3 +11,8 @@ touch [filename]
 mkdir [directory_name]
 rm [file_name]
 rm -r [folder_name]
+
+
+git add .
+git commit -m "messgae"
+git push origin main
