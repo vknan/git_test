@@ -1,1 +1,13 @@
-"Hello world"
+cd ..
+cd
+ls
+ls -F
+ls -t
+ls -r
+mv [old] [new]
+mv [path1] [path2]
+nano hello_world.txt
+touch [filename]
+mkdir [directory_name]
+rm [file_name]
+rm -r [folder_name]
